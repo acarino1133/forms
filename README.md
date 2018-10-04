@@ -1,2 +1,1 @@
-
-signs
+sign
